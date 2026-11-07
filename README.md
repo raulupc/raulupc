@@ -1,17 +1,12 @@
-<!-- ============================================================
-  REEMPLAZA ESTE VALOR EN TODO EL ARCHIVO (Ctrl+H):
-    TU-USUARIO -> tu usuario de GitHub
-============================================================ -->
-
 <!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hola%2C%20soy%20Ra%C3%BAl&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20%26%20C%23&descSize=20&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hola%2C%20soy%20Ra%C3%BAl&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20y%20C%23&descSize=20&descAlignY=60" alt="header" />
 </p>
 
 <!-- TEXTO QUE SE ESCRIBE SOLO -->
 <div align="center">
-  <a href="https://github.com/TU-USUARIO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=780&lines=Backend+Developer+%7C+.NET+%26+C%23;APIs+REST+%7C+Microservicios+%7C+Clean+Architecture;Construyo+sistemas+robustos+y+escalables+%F0%9F%9A%80;Siempre+aprendiendo+%E2%9A%A1" alt="Typing SVG" />
+  <a href="https://github.com/raulupc">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=780&lines=Backend+Developer+%7C+.NET+y+C%23;APIs+REST+%7C+Microservicios+%7C+Clean+Architecture;Construyo+sistemas+robustos+y+escalables+%F0%9F%9A%80;Siempre+aprendiendo+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +21,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/-Lima%2C%20Per%C3%BA-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&color=8B5CF6&style=for-the-badge&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=raulupc&color=8B5CF6&style=for-the-badge&label=VISITAS" />
 </p>
 
 <p align="center">
@@ -105,64 +100,6 @@ public class Developer
 **Conceptos que domino**
 
 `Clean Architecture` · `DDD` · `CQRS` · `Microservicios` · `SOLID` · `Design Patterns` · `REST` · `JWT / OAuth2` · `CI/CD` · `Scrum`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/TU-USUARIO">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/TU-USUARIO">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
-</div>
-
-### 📈 Actividad
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🚀 Proyectos destacados
-
-<div align="center">
-  <a href="https://github.com/TU-USUARIO/proyecto-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=proyecto-1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/TU-USUARIO/proyecto-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=proyecto-2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/TU-USUARIO/proyecto-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=proyecto-3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/TU-USUARIO/proyecto-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=proyecto-4&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<details>
-<summary><b>💡 Ideas de proyectos para llenar esta sección (bórralo luego)</b></summary>
-
-- API REST de e-commerce con Clean Architecture, EF Core y JWT
-- Sistema de pagos con microservicios, RabbitMQ y Docker
-- API bancaria de ejemplo (cuentas, transferencias) con CQRS y SQL Server
-- Pipeline CI/CD con GitHub Actions desplegando en Azure
-
-</details>
 
 ---
 
