@@ -1,20 +1,17 @@
 <!-- ============================================================
-  REEMPLAZA ESTOS VALORES EN TODO EL ARCHIVO (Ctrl+H):
-    TU-USUARIO   -> tu usuario de GitHub
-    TU NOMBRE    -> tu nombre
-    tu-linkedin  -> tu usuario de LinkedIn
-    tu@correo.com -> tu correo
+  REEMPLAZA ESTE VALOR EN TODO EL ARCHIVO (Ctrl+H):
+    TU-USUARIO -> tu usuario de GitHub
 ============================================================ -->
 
 <!-- HEADER ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hola%2C%20soy%20TU%20NOMBRE&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20%26%20C%23%20%7C%20Ex-BCP&descSize=20&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hola%2C%20soy%20Ra%C3%BAl&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20%26%20C%23&descSize=20&descAlignY=60" alt="header" />
 </p>
 
 <!-- TEXTO QUE SE ESCRIBE SOLO -->
 <div align="center">
   <a href="https://github.com/TU-USUARIO">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=780&lines=Backend+Developer+%7C+.NET+%26+C%23;Ex+%40+Banco+de+Cr%C3%A9dito+del+Per%C3%BA+(BCP);APIs+REST+%7C+Microservicios+%7C+Clean+Architecture;Construyo+sistemas+robustos+y+escalables+%F0%9F%9A%80;Siempre+aprendiendo+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=780&lines=Backend+Developer+%7C+.NET+%26+C%23;APIs+REST+%7C+Microservicios+%7C+Clean+Architecture;Construyo+sistemas+robustos+y+escalables+%F0%9F%9A%80;Siempre+aprendiendo+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,10 +19,10 @@
 
 <!-- BADGES DE CONTACTO -->
 <p align="center">
-  <a href="mailto:tu@correo.com">
+  <a href="mailto:raultasayco54321@gmail.com">
     <img src="https://img.shields.io/badge/-Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="https://www.linkedin.com/in/raul-hiroshi-tasayco-osorio-811302296">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/-Lima%2C%20Per%C3%BA-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -47,50 +44,17 @@
 
 Soy **Backend Developer** apasionado por construir APIs y sistemas que escalan, con foco en el ecosistema **.NET (C#, ASP.NET Core)**. Me gusta el código limpio, las buenas prácticas y diseñar arquitecturas que sean fáciles de mantener y de probar.
 
-🏦 Tuve la oportunidad de trabajar en el **Banco de Crédito del Perú (BCP)**, la entidad financiera más grande del país, donde participé en [describe brevemente: desarrollo de APIs / servicios backend / integraciones / modernización de sistemas, etc.] en un entorno de alta disponibilidad, seguridad y volumen transaccional.
-
 ```csharp
 public class Developer
 {
-    public string Name       { get; } = "TU NOMBRE";
-    public string Role       { get; } = "Backend Developer (.NET)";
-    public string[] Stack    { get; } = { "C#", "ASP.NET Core", "EF Core", "SQL Server", "Azure", "Docker" };
-    public string Experience { get; } = "Ex Banco de Crédito del Perú (BCP) 🏦";
-    public string Location   { get; } = "Lima, Perú 🇵🇪";
-    public string[] Loves    { get; } = { "Clean Architecture", "APIs REST", "Microservicios", "Testing" };
-    public string Status     { get; } = "Abierto a nuevas oportunidades 👀";
+    public string Name    { get; } = "Raúl Hiroshi Tasayco Osorio";
+    public string Role    { get; } = "Backend Developer (.NET)";
+    public string[] Stack { get; } = { "C#", "ASP.NET Core", "EF Core", "SQL Server", "Azure", "Docker" };
+    public string Location { get; } = "Lima, Perú 🇵🇪";
+    public string[] Loves { get; } = { "Clean Architecture", "APIs REST", "Microservicios", "Testing" };
+    public string Status  { get; } = "Abierto a nuevas oportunidades 👀";
 }
 ```
-
----
-
-## 💼 Experiencia
-
-<table>
-  <tr>
-    <td width="130" align="center">
-      <img src="https://img.shields.io/badge/BCP-0033A0?style=for-the-badge" /><br>
-      <sub>[Año inicio] – [Año fin]</sub>
-    </td>
-    <td>
-      <b>[Tu cargo, ej. Backend Developer / Software Engineer]</b> · Banco de Crédito del Perú (BCP)<br><br>
-      • [Logro o responsabilidad 1, ej. Desarrollo de APIs REST con .NET para canales digitales]<br>
-      • [Logro o responsabilidad 2, ej. Integración con servicios internos y de terceros]<br>
-      • [Logro o responsabilidad 3, ej. Optimización de consultas y rendimiento en SQL Server]<br>
-      • [Logro o responsabilidad 4, ej. Trabajo en equipos ágiles (Scrum) con CI/CD]
-    </td>
-  </tr>
-  <tr>
-    <td width="130" align="center">
-      <img src="https://img.shields.io/badge/[Empresa]-8B5CF6?style=for-the-badge" /><br>
-      <sub>[Año] – [Año]</sub>
-    </td>
-    <td>
-      <b>[Cargo]</b> · [Empresa]<br><br>
-      • [Descripción]
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -202,29 +166,14 @@ public class Developer
 
 ---
 
-## 🐍 Contribution Game
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## 🤝 Conectemos
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin">
+  <a href="https://www.linkedin.com/in/raul-hiroshi-tasayco-osorio-811302296">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu@correo.com">
+  <a href="mailto:raultasayco54321@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tu-portafolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
 
